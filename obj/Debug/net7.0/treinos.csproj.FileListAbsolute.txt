@@ -1,0 +1,14 @@
+C:\Users\lucas\projects\treinos\bin\Debug\net7.0\treinos.exe
+C:\Users\lucas\projects\treinos\bin\Debug\net7.0\treinos.deps.json
+C:\Users\lucas\projects\treinos\bin\Debug\net7.0\treinos.runtimeconfig.json
+C:\Users\lucas\projects\treinos\bin\Debug\net7.0\treinos.dll
+C:\Users\lucas\projects\treinos\bin\Debug\net7.0\treinos.pdb
+C:\Users\lucas\projects\treinos\obj\Debug\net7.0\treinos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\projects\treinos\obj\Debug\net7.0\treinos.AssemblyInfoInputs.cache
+C:\Users\lucas\projects\treinos\obj\Debug\net7.0\treinos.AssemblyInfo.cs
+C:\Users\lucas\projects\treinos\obj\Debug\net7.0\treinos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\projects\treinos\obj\Debug\net7.0\treinos.dll
+C:\Users\lucas\projects\treinos\obj\Debug\net7.0\refint\treinos.dll
+C:\Users\lucas\projects\treinos\obj\Debug\net7.0\treinos.pdb
+C:\Users\lucas\projects\treinos\obj\Debug\net7.0\treinos.genruntimeconfig.cache
+C:\Users\lucas\projects\treinos\obj\Debug\net7.0\ref\treinos.dll
